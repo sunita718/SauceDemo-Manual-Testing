@@ -74,7 +74,20 @@ It covers end-to-end functional testing: **Login → Product Browsing/Sort & Fil
 2. Navigate to each module tab (Login, Product Sort & Filter, Add to Cart, Checkout).  
 3. Review test cases, Actual Results, and Status.  
 4. Check the Bug Report tab for documented defects.  
-5. Refer to the Test Summary tab for overall execution results.  
+5. Refer to the Test Summary tab for overall execution results.
+
+   ## 📊 Test Summary (Screenshot)
+Here’s a visual snapshot of the Test Summary tab:
+
+![Test Summary](TestReport.png)
+
+---
+
+## 🐞 Bug Report Example
+Here’s the Bug Report tab showing BUG‑CHK‑11:
+
+![Bug Report](Bugreport.png)
+
 
 ---
 
