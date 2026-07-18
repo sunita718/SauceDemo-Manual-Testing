@@ -37,6 +37,18 @@ It covers end-to-end functional testing: **Login → Product Browsing/Sort & Fil
 - `error_user` → triggers checkout defect  
 - `visual_user` → used for visual/layout regression  
 
+### Usability Testing (UI/UX Observations)
+- Buttons are clearly labeled and easy to identify
+- Checkout flow is intuitive with minimal steps
+- Error messages are visible and understandable
+- Sorting feedback is immediate and consistent
+- Layout is responsive and maintains clarity
+---
+### Performance Testing (Manual Checks)
+- Product page loads within ~2 seconds on Chrome
+- Cart updates are instant with no lag
+- Checkout process completes smoothly without delays
+- Tested on Chrome and Firefox – consistent performance
 ---
 
 ## 📂 Deliverables
